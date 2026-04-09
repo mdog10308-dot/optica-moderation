@@ -181,4 +181,4 @@ async def promote(ctx, member: discord.Member, new_rank: discord.Role, *, reason
     promote_embed.set_footer(text="Optica")
     await ctx.send(embed=promote_embed)
 
-bot.run('MTQ4OTc4MzA0MzcwNjMyMjk2NA.GquT4N.GmkRhyW0lfTMDfJYIyA-6BVXiuLsuXVP5Rf-8Y')
+bot.run('DISCORD_TOKEN')
